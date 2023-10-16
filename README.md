@@ -1,9 +1,10 @@
-<p align='center'>
+<p align="center">
  
 <h4> Hi there 👋, I am **Hector Rosario**!</h4>
 <h4> A Full-Stack Web Developer from San Jose, CA</h4>
 
-<img src="https://github.com/HectorDevelops/HectorDevelops/assets/55935722/7602757a-0ad5-4aa8-a20e-f4ad7b3b2d8e" width="500" height="400" >
+<img src="https://github.com/HectorDevelops/HectorDevelops/assets/55935722/7602757a-0ad5-4aa8-a20e-f4ad7b3b2d8e" width="500" height="400" />
+
 </p>
 
 
