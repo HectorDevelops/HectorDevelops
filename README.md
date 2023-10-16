@@ -1,8 +1,7 @@
 ### Hi there 👋, I am **Hector Rosario**!
 #### A Full-Stack Web Developer from San Jose, CA
-![A Full-Stack Web Developer from San Jose, CA]
 
-![github](https://github.com/HectorDevelops/HectorDevelops/assets/55935722/7602757a-0ad5-4aa8-a20e-f4ad7b3b2d8e)
+<img src="https://github.com/HectorDevelops/HectorDevelops/assets/55935722/7602757a-0ad5-4aa8-a20e-f4ad7b3b2d8e" width="200" height="150" >
 
 
 I'm a young Dominican [🇩🇴] male who enjoys to:
