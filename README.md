@@ -30,7 +30,7 @@ I am a graduate from State University of New York at Buffalo State University.
 
 <h3 align="left">Languages:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,java,python,cs)
 
 
 
