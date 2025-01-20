@@ -28,10 +28,9 @@ I am a graduate from State University of New York at Buffalo State University.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HectorDevelops)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hrosario1//)  
 
-
-
 <h3 align="left">Languages:</h3>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,js,python,java,cs)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
 
 
 
