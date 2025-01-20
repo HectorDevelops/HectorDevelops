@@ -3,9 +3,10 @@
 <h4> Hi there 👋, I am Hector Rosario!</h4>
 <h4> A Software Developer based in San Jose, CA</h4>
 
-<img src="https://github.com/user-attachments/assets/95153949-f45b-41c1-a5bd-7a364d8b969a" width="500" height="400" />
+![Make your README-1](https://github.com/user-attachments/assets/88037855-8b47-40f2-a6cd-1a7c94bd5732 width="500" height="400")
 
 </p>
+
 
 
 
