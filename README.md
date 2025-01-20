@@ -3,9 +3,10 @@
 <h4> Hi there 👋, I am Hector Rosario!</h4>
 <h4> A Software Developer based in San Jose, CA</h4>
 
-<img src="https://github.com/HectorDevelops/HectorDevelops/assets/55935722/7602757a-0ad5-4aa8-a20e-f4ad7b3b2d8e" width="500" height="400" />
+<img src="https://github.com/user-attachments/assets/95153949-f45b-41c1-a5bd-7a364d8b969a" width="500" height="400" />
 
 </p>
+
 
 
 I'm a young Dominican [🇩🇴] male who enjoys to:
@@ -17,10 +18,10 @@ I'm a young Dominican [🇩🇴] male who enjoys to:
 - Adrenaline Junkie 
 - Speak Spanish with anyone I encounter! 
 
-I'm a recent graduated from Coding Dojo Bootcamp who is seeking a full-time opportunity as a junior Full Stack | Frontend | Backend Developer! 
+I'm a Software Developer seeking a full-time opportunity as a junior Full Stack | Frontend | Backend Developer! 
 
 I took a professional break from my previous company to follow my dream of becoming a developer, continue learning and building. 
-I am a graduate from State University of New York at Buffalo State. 
+I am a graduate from State University of New York at Buffalo State University. 
 
 - 📫 How to reach me: HectorDevelops@gmail.com 
 
