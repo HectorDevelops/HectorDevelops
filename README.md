@@ -39,7 +39,7 @@ I am a graduate from State University of New York at Buffalo State University.
 
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,javascript,python,java,c#, bootstrap,express,flask,github,mongodb,mysql,node,react,tailwind)
 
 
 
