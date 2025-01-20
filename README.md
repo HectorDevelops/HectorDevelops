@@ -22,7 +22,6 @@ I'm a recent graduated from Coding Dojo Bootcamp who is seeking a full-time oppo
 I took a professional break from my previous company to follow my dream of becoming a developer, continue learning and building. 
 I am a graduate from State University of New York at Buffalo State. 
 
-- 🔭 I’m currently working on My Portfolio  
 - 📫 How to reach me: HectorDevelops@gmail.com 
 
 
