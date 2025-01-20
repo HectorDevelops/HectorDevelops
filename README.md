@@ -36,7 +36,7 @@ I am a graduate from State University of New York at Buffalo State University.
 
 <h3 align="left">Tools:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,bootstrap,expressjs,mysql,idea,nodejs,mongodb)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,bootstrap,expressjs,mysql,idea,nodejs,mongodb,tailwindcss)
 
 
 
