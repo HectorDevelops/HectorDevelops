@@ -13,7 +13,7 @@ I'm a young Dominican [🇩🇴] male who enjoys to:
 - Go on hikes
 - Read books
 - Workout 
-- Train my dogs (2 year old Pitbull and Doberman 🐶)
+- Train my dogs (4 year old Pitbull and Doberman 🐶)
 - Explore 
 - Adrenaline Junkie 
 - Speak Spanish with anyone I encounter! 
