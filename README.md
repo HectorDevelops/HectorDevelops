@@ -18,7 +18,7 @@ I'm a young Dominican [🇩🇴] male who enjoys to:
 - Adrenaline Junkie 
 - Speak Spanish with anyone I encounter! 
 
-I'm a Software Developer seeking a full-time opportunity as a junior Full Stack | Frontend | Backend Developer! 
+I'm an passionate individual seeking a full-time opportunity as a junior Full Stack | Frontend | Backend Developer! 
 
 I took a professional break from my previous company to follow my dream of becoming a developer, continue learning and building. 
 I am a graduate from State University of New York at Buffalo State University. 
