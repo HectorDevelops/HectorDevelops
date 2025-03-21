@@ -6,25 +6,26 @@
 </p>
 
 
-
-
-
-I'm a young Dominican [🇩🇴] male who enjoys to:
-- Go on hikes
+I'm a young Dominican [🇩🇴] male who enjoys:
+- Coding and continuous learning 
+- Explore CA hiking trails
 - Read books
 - Workout 
 - Train my dogs (4 year old Pitbull and Doberman 🐶)
-- Explore 
-- Adrenaline Junkie 
 - Speak Spanish with anyone I encounter! 
 
-I'm an passionate individual seeking a full-time opportunity as a junior Full Stack | Frontend | Backend Developer! 
+I'm an passionate individual seeking a full-time opportunity as a Full Stack | Frontend | Backend Developepment role. 
 
 I took a professional break from my previous company to follow my dream of becoming a developer, continue learning and building. 
-I am a graduate from State University of New York at Buffalo State University. 
 
-- 📫 How to reach me: HectorDevelops@gmail.com 
+I am a graduate from State University of New York at Buffalo State University and Coding Dojo bootcamp. 
 
+What am I currently working on?
+- Building a community-focused platform using Java, Spring Boot, and PostgreSQL, designed to help people connect based on shared backgrounds and experiences.
+
+
+
+📫 How to reach me: HectorDevelops@gmail.com 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin,github)
 
